@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(194, 159, 159);
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
